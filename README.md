@@ -1,2 +1,2 @@
 # boba
-website i made: it sucks 
+website i made of restaurants i love eating at: it sucks 
